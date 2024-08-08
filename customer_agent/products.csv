@@ -1,0 +1,665 @@
+Text
+"id: 1 name: Turkey Roll (Hot) - تركى رول price: 125 category: W-Raps - Breakfast & Healthy - افطار و صحى description: smoked turkey, emmental cheese, tomatoes, lettuce with dijon   mustard & mayo dressing"
+"id: 2 name: Roast Beef (Hot) - روست بيف price: 125 category: W-Raps - Breakfast & Healthy - افطار و صحى description: roast beef, emmental cheese, tomatoes, lettuce with dijon   mustard & mayo dressing"
+"id: 3 name: Club Wrap (Hot) price: 135 category: W-Raps - Breakfast & Healthy - افطار و صحى description: smoked turkey, beef bacon, boiled eggs, american cheese,   tomatoes, lettuce, pickled cucumber & mayo dressing"
+"id: 4 name: Tuna Mayo Wrap (Cold ) price: 85 category: W-Raps - Breakfast & Healthy - افطار و صحى description: tuna, onions, celery, lettuce, pickled black olives, parsley   & mayo dressing"
+"id: 5 name: Nicoise Wrap (Cold ) price: 100 category: W-Raps - Breakfast & Healthy - افطار و صحى description: tuna, boiled eggs, potatoes, anchovy, onions, tomato, green   beans, lettuce, pickled black olives & Vinaigrette dressing"
+"id: 6 name: Greek Wrap (Cold) price: 60 category: W-Raps - Breakfast & Healthy - افطار و صحى description: feta cheese, tomato, cucumbers, lettuce, onions, pickled black   olives, green bell peppers & olive oil dressing"
+"id: 7 name: Artichoke Feta Wrap (Cold) price: 60 category: W-Raps - Breakfast & Healthy - افطار و صحى description: artichokes, feta cheese, cucumbers, lettuce, carrot, arugula   & balsamic dressing"
+id: 8 name: Potato Puree & Boiled Eggs Roll - رول بطاطس بيوريه بالبيض المسلوق price: 60 category: W-Raps - Breakfast & Healthy - افطار و صحى description:
+id: 9 name: Egyptian Breakfast Roll - رول الفطار المصرى price: 60 category: W-Raps - Breakfast & Healthy - افطار و صحى description:
+id: 10 name: W.R-Sambousek cheese سمبوسك جبنة price: 80 category: W.R - Appetizers مقبلات description: 6 pieces
+id: 11 name: W.R-Mozzarella Sticks صوابع موتزريلا price: 95 category: W.R - Appetizers مقبلات description: 6 pieces
+id: 12 name: W.R - Squared Fried Potatoes Box - بطاطس محمرة مربعة price: 40 category: W.R - Appetizers مقبلات description:
+id: 13 name: W.R-Square Fried Potatoes topped with cheese - بطاطس محمره مربعة بالجبنة price: 65 category: W.R - Appetizers مقبلات description:
+id: 14 name: W.R-Sambousek chicken سمبوسك فراخ price: 80 category: W.R - Appetizers مقبلات description:  6 pieces
+id: 15 name: W.R-Sambousek spinach سمبوسك سبانخ price: 80 category: W.R - Appetizers مقبلات description:  6 pieces
+id: 16 name: W.R - Sauteed vegetables خضار سوتية price: 50 category: W.R - Appetizers مقبلات description:
+id: 17 name: Sambousek Spinach -  سمبوسك سبانخ price: 100 category: W.R - Appetizers مقبلات description:
+id: 18 name: Sambousek Spinach  -  سمبوسك سبانخ price: 130 category: W.R - Appetizers مقبلات description: 18 pieces
+id: 19 name: Fried Mozzarella sticks  - اصابع موزاريلا price: 150 category: W.R - Appetizers مقبلات description: 12 pieces
+id: 20 name: Fried Mozzarella sticks   - اصابع موزاريلا price: 200 category: W.R - Appetizers مقبلات description: 18 pieces
+id: 21 name: WR - Medium Squared Fried Potatoes - بطاطس محمرة مربعة وسط price: 20 category: W.R - Appetizers مقبلات description:
+id: 22 name: W R - Chicken quesadillas - كاساديا فراخ price: 125 category: W.R - Appetizers مقبلات description:
+"id: 23 name: W.R - Black Lentil Salad سلطة عدس سوداء price: 20 category: W.R - Salads السلطات description: black lentil, parsley, bell peppers & onions with a   lemon-olive oil dressing"
+id: 24 name: W.R - Tahina طحينة price: 15 category: W.R - Salads السلطات description:
+id: 25 name: W.R - Pickled مخلل price: 12 category: W.R - Salads السلطات description:
+id: 26 name: W.R - Coleslaw كولسلو price: 20 category: W.R - Salads السلطات description:
+"id: 27 name: W R - Black Lentil Salad(large) - سلطة عدس جبة بالخضار(كبير) price: 40 category: W.R - Salads السلطات description: black lentil, parsley, bell peppers & onions with a   lemon-olive oil dressing"
+id: 28 name: W R - Coleslaw (large) - كلوسلو (كبير) price: 45 category: W.R - Salads السلطات description:
+id: 29 name: W R -Pickle (small)- (صغير)خيار مخلل price: 12 category: W.R - Salads السلطات description:
+id: 30 name: WR-Garden Salad Slices - شرائح سلاطة خضراء price: 50 category: W.R - Salads السلطات description:
+id: 31 name: W.R - Roasted COLD Vegetable Salad -سلاطة خضار روست price: 60 category: W.R - Salads السلطات description:
+id: 32 name: W.R - Greek Salad - جريك سلطة price: 65 category: W.R - Salads السلطات description:
+id: 33 name: W.R - Chicken Ceasar Salad - تشيكن سيزر price: 125 category: W.R - Salads السلطات description:
+id: 34 name: W R - Pickled Cucumbers Large - خيار مخلل كبير price: 20 category: W.R - Salads السلطات description:
+"id: 35 name: W.R - Sujouk سجق price: 65 category: W.R - Saj Bread عيش صاج description: sujouk topped with Pickled Cucumbers, Onions, Parsley slathered in our home made Tahini سجقخيار مخلل، بصل، بقدونس، طحينة"
+"id: 36 name: W.R - Chicken Kofta كفتة فراخ price: 65 category: W.R - Saj Bread عيش صاج description: Grilled Minced Chicken mixed with pickled cucumber, onions, parsley slathered in our home made Tahini  كفتة فراخاصابع مفروم الفراخ المشوى  مع الطحينه, الخيار المخلل"
+"id: 37 name: W.R - Spicy Chicken Kofta كفتة فراخ  حار price: 65 category: W.R - Saj Bread عيش صاج description: Grilled Minced Chicken mixed with pickled cucumber, onions slathered in Hot Chipotle sauce كفتة فراخ حاراصابع مفروم الفراخ المشوى  مع صوص الشيبوتل الحار و البصل"
+"id: 38 name: W.R - Chicken Shawerma شاورما فراخ price: 60 category: W.R - Saj Bread عيش صاج description: Shredded chicken mixed with Pickled Cucumbers, Garlic sauce 'Toumeya'شاورمة فراخخيار مخلل مع تومية"
+"id: 39 name: W.R - Shish tawook شيش طاووق price: 65 category: W.R - Saj Bread عيش صاج description: Marinated chicken cubes topped with bell pepper, Onions slathered with Garlic dip  شيش طاووق معفلفل، بصل، تومية"
+"id: 40 name: W.R - Mombar ممبار price: 65 category: W.R - Saj Bread عيش صاج description: Mombar topped with Rucola, Pickled Cucumbers, Onions slathered with our home made tahini ممبارخيار مخلل، بصل، جرجير، طحينة"
+"id: 41 name: W R -  Kofta roll - كفتة مشوية price: 65 category: W.R - Saj Bread عيش صاج description: Grilled Kofta topped with eggplant, Parsley, Onion slathered in our home made Tahini كفته مشويه مع الباذنجان و بقدونس مع الطحينه"
+id: 42 name: W R - SAJ Grilled Calamari  -  صاج كاليمارى مشوى price: 75 category: W.R - Saj Bread عيش صاج description:
+id: 43 name: W R - SAJ Grilled Calamari Spicy -   كالمارى مشوى حارصاج price: 75 category: W.R - Saj Bread عيش صاج description:
+id: 44 name: W.R - SAJ Grilled Shrimps -  جمبرى مشوى صاج price: 100 category: W.R - Saj Bread عيش صاج description:
+id: 45 name: W R - SAJ Grilled Shrimps Spicy - جمبرى مشوى حار صاج price: 100 category: W.R - Saj Bread عيش صاج description:
+id: 46 name: W R - SAJ Grilled Fish Fillet  -  صاج سمك فيلية مشوى price: 75 category: W.R - Saj Bread عيش صاج description:
+id: 47 name: W R - SAJ Grilled Fish Fillet spicy -صاج سمك فيلية مشوى حار price: 75 category: W.R - Saj Bread عيش صاج description:
+id: 48 name: W R - SAJ Grilled Mixed Seafood - مكس سى فود مشوى صاج price: 100 category: W.R - Saj Bread عيش صاج description:
+id: 49 name: W R - SAJ Grilled Mixed Seafood (SPICY) - مكس سى فود مشوى سبايسى صاج price: 100 category: W.R - Saj Bread عيش صاج description:
+"id: 50 name: W.R - Potato Burrito بوريتو بطاطس price: 50 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Fried Potato Cubes, Parsley, Sour Cream, with our special Hot Sauce مكعبات بطاطس مربعة، بقدونس، كريمة حمضية، مع الصوص الحار"
+"id: 51 name: W.R - Chicken Fajita فاهيتا فراخ price: 75 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Mixed Cheddar Cheese, Sour Cream, Tomatoes, Colored bell peppers, Onionsجبنة شيدر احمر و اصفر، كريمة حمضية، طماطم، فلفل الوان، بصل"
+"id: 52 name: W.R - Vegetarian - Chinese veggies صيامي: خضار علي الطريقه الصينيه price: 50 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Broccoli, Cauliflower, Mushrooms, Zucchini, Carrots, Onions, Bell peppers with Soya Sauce بروكولى، قرنبيط، مشروم، كوسة، جزر، بصل، فلفل الوان"
+"id: 53 name: W.R - Pesto Halloumi بستو حلومى price: 75 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Rucolla, Thyme, Black Olives, Pesto sauce جرجير، زعتر، زيتون اسود"
+"id: 54 name: W.R - Chicken mushroom sandwich فراخ مشروم ساندوتش price: 80 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Chicken , Mushrooms, Mozzarella Cheese, Onionsفراخ بالمشروم جبنة موزاريلا، بصل"
+"id: 55 name: W.R - Chicken Strips Wrap استربس راب ساندوتش price: 60 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Our crispy Chicken strips with iceberg lettuce, Fresh tomato and mayonnaise sauce فراخ مقلية مع صوص المايونيز و الخس و الطماطم"
+"id: 56 name: Beef Fajita - فاهيتا لحمة price: 90 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: beef fillet covered with Mixed Cheddar Cheese, Sour Cream, Tomatoes, Colored bell pepper, Onions                                                     جبنة شيدر احمر و اصفر، كريمة حمضية، طماطم، فلفل الوان، بصل"
+"id: 57 name: W,R - Brown Ossobuco Rolls  أوسوبوكو رول صوص بنى price: 100 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Slow cooked Ossobuco beef topped with mushrooms, pickled cucumber, artichoke slathered in our 'Unique' Demi-Glace Sauce and Dijon Mustard.لحم الاسوبوكو مع صوص بني راجو الفريد من نوعه ,بروكولي,مشروم,خيار مخل"
+"id: 58 name: W R - Celery Fish Roll (Grilled) (سمك بالكرفس (جريل price: 60 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description: Grilled Fish fillet, celery covered with tartar sauceسمك فيليه مشوى معىالكرفس و صوص التارتار"
+id: 59 name: WR - White Ossobuco Rolls- اسوبوكو رول صوص ابيض price: 100 category: W.R - Tortilla Bread ملفوف عيش تورتيلا description:
+"id: 60 name: W R - Chicken Double Meal - وجبة الفراخ الدبل price: 175 category: W-Raps - Combo Meals - وجبات الكومبو description: Choice of 2 Chicken Wraps, 1 Large salad, 1 Dessert & 1 Drink"
+"id: 61 name: W R - Beef Double Meal - وجبة الدبل بيف price: 200 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 2 wraps, 1 small salad, 1 dessert & 1 drink"
+"id: 62 name: W R - Beef Family Meal - وجبة العيلة بيف price: 430 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 4 Wraps, 1 Large Salad, 1 Appetizer, 2 Desserts &   2 Drinks"
+"id: 63 name: W R - Chicken Family Meal - وجبة العيلة فراخ price: 375 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 4 chicken wraps, 1 large salad, 1 appetizer & 2   drinks"
+"id: 64 name: W R - Veggie Double Meal - وجبة الدبل فيجيترين price: 150 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 2 veg wraps, 1 small salad, 1 dessert & 1 drink"
+"id: 65 name: W R - Veggie Family Meal - وجبة العيلة فيجيترين price: 300 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 3 veg wraps, 1 large salad, 1 appetizer, 1 dessert   & 2 drinks"
+"id: 66 name: W R - Mixed Family Meal - وجبة العيلة مكس price: 325 category: W-Raps - Combo Meals - وجبات الكومبو description: Choice of 3 Wraps, 1 Large salad, 1 Appetizer, 2 Dessert & 2 Drinks"
+"id: 67 name: W R - Mixed Double Meal - وجبة المكس دبل price: 160 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 3 wraps, 1 large salad, 1 appetizer, 1 dessert & 2   drinks"
+id: 68 name: W R - Single Saj Combo - كومبو عيش الصاج price: 70 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 1 saj wrap & 1 drink
+"id: 69 name: W R - Fajita Double - كومبو الفهيتا price: 190 category: W-Raps - Combo Meals - وجبات الكومبو description: 1 chicken fajita, 1 beef fajita, 1 fries & 1 drink"
+"id: 70 name: W R - Light Double - كومبو التورتيلا price: 140 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 1 wrap, 1 small salad, 1 dessert & 1 drink"
+"id: 71 name: WR - Single Tortilla Combo  -  كومبو السنجل price: 75 category: W-Raps - Combo Meals - وجبات الكومبو description: choice of 1 wrap, 1 fries, 1 small salad, & 1 drink"
+id: 72 name: W.R - Crepe Banana caramel كريب موز وكراميل price: 60 category: W.R - Desserts حلويات description:
+id: 73 name: W.R - Crepe Nutella كريب نوتيلا price: 70 category: W.R - Desserts حلويات description:
+id: 74 name: W R - Chocolate pudding - بودنج شيكولاته price: 25 category: W.R - Desserts حلويات description:
+id: 75 name: W R - Lotus pudding - بودنج لوتس price: 25 category: W.R - Desserts حلويات description:
+id: 76 name: W.R - Chocolotus Mix - شوكولوتس مكس price: 25 category: W.R - Desserts حلويات description:
+id: 77 name: W R - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: W.R - Desserts حلويات description:
+id: 78 name: W.R - Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: W.R - Desserts حلويات description:
+id: 79 name: W R Sprite Cans - سبرايت كانز price: 16 category: W.R - Drinks مشروبات description:
+id: 80 name: W R Coca Cola Cans - كوكا كولا كانز price: 16 category: W.R - Drinks مشروبات description:
+id: 81 name: W R Fanta Orang Cans - فانتا برتقال كانز price: 16 category: W.R - Drinks مشروبات description:
+id: 82 name: W R Mineral Water 600ml - مياه معدنيه price: 12 category: W.R - Drinks مشروبات description:
+id: 83 name: W R Fanta apple Cans - فانتا تفاح كانز price: 16 category: W.R - Drinks مشروبات description:
+id: 84 name: W.R  Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: W.R - Drinks مشروبات description:
+id: 85 name: Lesan 3asfour لسان عصفور price: 30 category: K.G - Soup شوربه description:
+id: 86 name: Molokheya - ملوخية price: 45 category: K.G - Soup شوربه description:
+id: 87 name: Lentil Soup -  شوربة عدس price: 45 category: K.G - Soup شوربه description:
+id: 88 name: Vegetable Soup  - شوربة خضار price: 40 category: K.G - Soup شوربه description:
+id: 89 name: Tahina - طحينة price: 20 category: K.G - Salads السلطات description: Small
+id: 90 name: Baba ghanouj - بابا غنوج price: 25 category: K.G - Salads السلطات description: large
+id: 91 name: Pickled Eggplant Tomato with Garlic - باذنجان مخلل وطماطم مخللة price: 25 category: K.G - Salads السلطات description:
+id: 92 name: Egyptian Balady Salad - سلطة خضرا بلدي price: 15 category: K.G - Salads السلطات description: Small
+id: 93 name: Oriental Pickles 'Torshy' - طرشى بلدى price: 15 category: K.G - Salads السلطات description: Small
+id: 94 name: Pickled Cucmber - خيار مخلل price: 15 category: K.G - Salads السلطات description: Small
+id: 95 name: Tomeya - ثومية price: 20 category: K.G - Salads السلطات description: Small
+id: 96 name: Baba ghanouj - بابا غنوج price: 15 category: K.G - Salads السلطات description: Small
+id: 97 name: Oriental Pickles 'Torshy' -  طرشى بلدى price: 25 category: K.G - Salads السلطات description: Large
+id: 98 name: Pickled Cucmber - خيار مخلل price: 20 category: K.G - Salads السلطات description: Large
+id: 99 name: Tahina - طحينة price: 30 category: K.G - Salads السلطات description: Large
+id: 100 name: Egyptian Balady Salad - سلطة خضرا بلدي price: 25 category: K.G - Salads السلطات description: Large
+id: 101 name: Mombar - ممبار price: 75 category: K.G - Appetizers مقبلات description:
+id: 102 name: Mombar - ممباربانيه price: 85 category: K.G - Appetizers مقبلات description:
+id: 103 name: Sambousek cheese  -  سمبوسك جبنة price: 75 category: K.G - Appetizers مقبلات description: 6 pieces
+id: 104 name: Sambousek Spinach -  سمبوسك سبانخ price: 75 category: K.G - Appetizers مقبلات description: 6 pieces
+id: 105 name: Sambousek Chicken -  سمبوسك فراخ price: 75 category: K.G - Appetizers مقبلات description: 6 pieces
+id: 106 name: Chicken liver - كبدة فراخ price: 125 category: K.G - Appetizers مقبلات description:
+id: 107 name: Kobeba - كبيبة price: 85 category: K.G - Appetizers مقبلات description:
+id: 108 name: Vne leaves - ورق عنب price: 60 category: K.G - Appetizers مقبلات description:
+id: 109 name: Balady bread - عيش بلدى price: 2 category: K.G - Appetizers مقبلات description:
+id: 110 name: Shami bread - عيش شامى price: 2 category: K.G - Appetizers مقبلات description:
+id: 111 name: Whole Chicken - فرخة كاملة price: 225 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description:
+id: 112 name: Traditional Chicken Shawerma Whole Siekh - شاورمة فراخ سيخ كامل price: 280 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: 500gm
+id: 113 name: Grilled veal liver(250gr) - (250جرام) كبدة بتلو مشوية price: 95 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 114 name: Grilled veal liver(500gr) - (500جرام) كبدة بتلو مشوية price: 165 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 115 name: Grilled veal liver(1kg) - (1كيلو) كبدة بتلو مشوية price: 325 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 116 name: Kabab(1kg)  -(1كيلو) كباب price: 575 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 117 name: Kabab(250gm)  -(250جرام) كباب price: 150 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 118 name: Kabab(500gm)  -(500جرام) كباب price: 290 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 119 name: kabab & kofta(1kg) -(1كيلو) كباب وكفتة price: 500 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 120 name: kabab & kofta(250gm) -(250جرام) كباب وكفتة price: 140 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 121 name: kabab & kofta(500gm) -(500جرام) كباب وكفتة price: 270 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 122 name: Shish tawook(1kg) -(1كيلو) شيش طاووق price: 450 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 123 name: Shish tawook(250gm) -(250جرام) شيش طاووق price: 125 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 124 name: Shish tawook(500gm) -(500جرام) شيش طاووق price: 240 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 125 name: Sujouk balady(1kg) -(1كيلو)  سجق بلدى price: 375 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 126 name: Sujouk balady(250gm) -(250جرام)  سجق بلدى price: 100 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 127 name: Sujouk balady(500gm) -(500جرام)  سجق بلدى price: 200 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 128 name: Kofta(1kg) -(1كيلو) كفتة price: 450 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 129 name: Kofta(250m) -(250جرام) كفتة price: 125 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 130 name: Kofta(500m) -(500جرام) كفتة price: 230 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 131 name: chicken breasts(1kg)-(1كيلو) صدور فراخ price: 500 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 132 name: chicken breasts(250gm)-(250جرام) صدور فراخ price: 140 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 133 name: chicken breasts(500gm)-(500جرام) صدور فراخ price: 270 category: K.G - The Grill Prices by kilo (المشويات (الاسعار بالكيلو description: served with 2 salads
+id: 134 name: 1/2 Chicken - نصف فرخة price: 175 category: K.G - Meals الوجبات description: served with 1 side
+"id: 135 name: Mixed Grill: Kofta, Kabab, chicken Breast, Shish Tawook - مكس جريل price: 300 category: K.G - Meals الوجبات description: served with 1 side"
+id: 136 name: Chicken breast meal - وجبة صدور فراخ price: 200 category: K.G - Meals الوجبات description: served with 1 side
+id: 137 name: Shishtawook meal - وجبة شيش طاووق price: 175 category: K.G - Meals الوجبات description: served with 1 side
+id: 138 name: Kofta meal - وجبة كفتة price: 175 category: K.G - Meals الوجبات description: served with 1 side
+id: 139 name: Meat Fattah red sauce- فته باللحمة price: 200 category: K.G - Meals الوجبات description:
+"id: 140 name: KG - Effendi Meal - وجبة الافندى price: 300 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: choice of 1 soup, 1 salad, 1 appetizer, 1 main course, 1   dessert, 1 drink"
+"id: 141 name: KG- Beh Meal - وجبة البيه price: 430 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: choice of 1 soup, 1 salad, 2 appetizers, 1 tajin, 1 main course,   1 dessert, 1 drink, 1 side item"
+"id: 142 name: KG - El Basha Meal - وجبة الباشا price: 500 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: choice of 1 soup, 1 salad, 1 appetizer, 1 tajin, 1 main course,   1 dessert, 1 drink, 1 side item"
+"id: 143 name: KG - El Prince Meal 1 Kilo - وجبة الامير 1كيلو price: 750 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: 1 Lesan Asfour soup & 1 Vegetable Soup, 1 basmati rice &   1 Sauteed vegetables, 1 Large Balady Salad & 1 Large Tehina & 1 Small   Mixed Pickles, 250g kofta / 150g kabab/ 250g chicken breasts / 150g Shisha   Tawook / 100g Sujouk / 100g Liver,1 Mahalabia & 1 Rice Pudding"
+"id: 144 name: KG - El Khedive Meal 2.5 KG - وجبة الخديوى 2.5 كيلو price: 1500 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: 2 Orzo Soup & 2 Vegetable Soup, 1 Basmati Rice &   1 Sauteed Vegetables & 1 Vermicelli & 1 French Fries, 1 Oriental Salad   & 1 Tahina & 1 Mixed PicklesProtein: 600g Kofta  / 300g Kabab/ 500g Chicken Breasts / 500g ShishTawook /  300g Sujouk / 300g Liver.10 Bread 2 Mahalabia & 2 Rice Pudding + 4 Drinks"
+"id: 145 name: KG - Fattah Meat Combo - كومبو فتة لحم price: 250 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: choice of 1 soup, 1 fatteh, 1 dessert, 1 salad, 1 drink"
+"id: 146 name: KG - Whole Chicken Combo - كومبو فرخة كاملة price: 275 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: 1 whole chicken, 1 large fries, 2 drinks"
+"id: 147 name: KG - Golash Combo - كومبو الجلاش price: 225 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: 1 item, 1 salad, 1 dessert"
+"id: 148 name: KG - 1/2 Chicken Combo - كومبو نص فرخه price: 190 category: K.G - RAMADAN Value Meals - وجبات رمضان القيمة description: 1 item, 1 dessert, 1 drink"
+id: 149 name: Okra With  Meat - بامية باللحمة price: 130 category: K.G - Tajines الطواجن description:
+"id: 150 name: Grits ""Freek"" With meat طاجن فريك باللحم price: 130 category: K.G - Tajines الطواجن description:"
+id: 151 name: Mousaka مسقعة price: 80 category: K.G - Tajines الطواجن description:
+id: 152 name: Potato with meat طاجن بطاطس باللحمة price: 130 category: K.G - Tajines الطواجن description:
+id: 153 name: Oven baked pasta / Macarona forn مكرونة فرن price: 100 category: K.G - Tajines الطواجن description:
+id: 154 name: Vegetables 'TORLI' -تورلى خضار price: 80 category: K.G - Tajines الطواجن description:
+"id: 155 name: Seafood rice Tajin  -  ""طاجن سى فود ""ارز صيادية price: 200 category: K.G - Tajines الطواجن description:"
+id: 156 name: Fried potatoes - بطاطس محمرة price: 40 category: K.G - Sides  أطباق جانبية description: Large
+id: 157 name: plain fattah red sauce- فته سادة بالصلصه price: 80 category: K.G - Sides  أطباق جانبية description:
+id: 158 name: Rice with vermicelli - ارز بالشعرية price: 45 category: K.G - Sides  أطباق جانبية description:
+id: 159 name: vermicelli plain - شعرية سادة price: 40 category: K.G - Sides  أطباق جانبية description:
+id: 160 name: Rice Basmati with vegetables ارز بسمتى بالخضار price: 60 category: K.G - Sides  أطباق جانبية description:
+id: 161 name: Rice Basmati - ارز بسمتى price: 50 category: K.G - Sides  أطباق جانبية description:
+id: 162 name: Vermicelli Vegetables -شعرية بالخضار price: 45 category: K.G - Sides  أطباق جانبية description:
+id: 163 name: Grilled Veggies - خضار مشوى price: 50 category: K.G - Sides  أطباق جانبية description:
+id: 164 name: Vegetable Sautee - خضار سوتية price: 50 category: K.G - Sides  أطباق جانبية description:
+id: 165 name: Egyptian white rice - ارز ابيض مصرى price: 40 category: K.G - Sides  أطباق جانبية description:
+id: 166 name: El Dolma - الدولما price: 80 category: K.G - Sides  أطباق جانبية description:
+id: 167 name: Kofta GOLASH - جلاش كفتة price: 185 category: K.G - Sides  أطباق جانبية description:
+id: 168 name: Mix Cheese GOLASH- جلاش مكس جبن price: 175 category: K.G - Sides  أطباق جانبية description:
+id: 169 name: Rice Pudding - أرز باللبن price: 25 category: K.G - Dessert حلويات description:
+id: 170 name: Mahalabia - مهلبية price: 25 category: K.G - Dessert حلويات description:
+id: 171 name: Chocolate Pudding - بودنج شيكولاته price: 25 category: K.G - Dessert حلويات description:
+id: 172 name: Lotus Pudding - بودنج لوتس price: 25 category: K.G - Dessert حلويات description:
+id: 173 name: KG - Chocolotus Mix - شوكولوتس مكس price: 25 category: K.G - Dessert حلويات description:
+id: 174 name: KG - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: K.G - Dessert حلويات description:
+id: 175 name: K.G - Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: K.G - Dessert حلويات description:
+id: 176 name: Coca Cola Cans - كوكا كولا كانز price: 16 category: K.G - Drinks مشروبات description:
+id: 177 name: Sprite Cans - سبرايت كانز price: 16 category: K.G - Drinks مشروبات description:
+id: 178 name: Fanta Orang Cans - فانتا برتقال كانز price: 16 category: K.G - Drinks مشروبات description:
+id: 179 name: Mineral Water 600ml - مياه معدنيه price: 12 category: K.G - Drinks مشروبات description:
+id: 180 name: Fanta Apple Cans - فانتا تفاح كانز price: 16 category: K.G - Drinks مشروبات description:
+id: 181 name: Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: K.G - Drinks مشروبات description:
+id: 182 name: KG - كوكاكولا 1لتر price: 22 category: K.G - Drinks مشروبات description:
+id: 183 name: KG - فانتا برتقال 1لتر price: 22 category: K.G - Drinks مشروبات description:
+id: 184 name: KG - سبرايت 1لتر price: 22 category: K.G - Drinks مشروبات description:
+id: 185 name: Foul Sujouk - فول بالسجق price: 18 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 186 name: Eggs basterma - بيض بالبسطرمة price: 30 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 187 name: Foul Fried Egg - فول بالبيض المقلى price: 18 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 188 name: Eggs Cheddar Cheese - بيض اومليت بالجبنه الشيدار price: 26 category: EE - Breakfast All Day فطار طول اليوم description:
+"id: 189 name: Super Mix: foul, eggs, ta3meya, eggplant, potatoes -سوبر مكس: فول، بيض، طعمة، بتنجان، بطاطس price: 30 category: EE - Breakfast All Day فطار طول اليوم description:"
+id: 190 name: Eggplant sandwich - ساندوتش باذنجان price: 10 category: EE - Breakfast All Day فطار طول اليوم description:
+"id: 191 name: Egyptian Mix: Lentils, Eggplant, Tomatoes, Ta3meya, Tehina - مكس مصراوى: عدس، بتنجان، طماطم، طعمية، طحينة price: 20 category: EE - Breakfast All Day فطار طول اليوم description:"
+id: 192 name: Foul olive oil  - فول بزيت الزيتون price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 193 name: Falafel sandwich - طعمية ساندوتش price: 10 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 194 name: French fries sandwich - ساندوتش بطاطس مقلية price: 10 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 195 name: Omelette eggs sandwich - ساندوتش بيض اوملت price: 22 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 196 name: Foul sandwich with ta'meya - ساندوتش فول مع طعمية price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 197 name: Taameya sandwich with eggplant - ساندوتش طعمية بالباذنجان price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 198 name: Boiled eggs sandwich - ساندوتش بيض مسلوق price: 20 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 199 name: foul tahina - ساندوتس فول بالطحينة price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 200 name: Lentil Mash “Medames - ” عدس بيوريه ’مدمس’ price: 10 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 201 name: Lentil Tahina - عدس طحينة price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 202 name: Lentil Olive Oil - عدس بزيت الزيتون price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 203 name: Eggs feta cheese - بيض بالجبنة الفيتا price: 22 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 204 name: Lentil Vegtables - عدس خضار price: 12 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 205 name: Foul classic - فول كلاسيك price: 10 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 206 name: Balady bread - عيش بلدى price: 2 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 207 name: Shamy bread - عيش شامى price: 2 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 208 name: Foul boiled Egg - فول بالبيض المسلوق price: 18 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 209 name: Feta cheese tomato - جبنة فيتا بالطماطم price: 15 category: EE - Breakfast All Day فطار طول اليوم description:
+id: 210 name: Fish Fillet Sandwich - ساندوتش سمك فيلية price: 40 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 211 name: Fried Liver ' radah' Balady - كبدة بالردة فى عيش بلدى price: 45 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 212 name: kofta Beef sandwich Saj Bread - كفتة لحم ساندوتش فى عيش صاج price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 213 name: Chicken kofta - كفتة فراخ فى عيش صاج price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 214 name: Shishtawook Sandwich Saj Bread - شيش طاووق ساندوتش فى عيش صاج price: 70 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 215 name: Chicken Shawarma Sandwich - شاورما فراخ ساندوتش price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 216 name: Sandwich Fried Shrimp  - ساندوتش جمبرى مقلى price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 217 name: Fried Calamari Sandwich - ساندوتش كالمارى مقلى price: 40 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 218 name: Mombar Roll 'Comida Special' - ساندوتش ممبار price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 219 name: Sandwich Fried Shrimp Spicy  -ساندوتش جمبرى مقلى  حار price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 220 name: Sandwich Grilled Shrimp - ساندوتش جمبرى مشوى price: 90 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 221 name: Sandwich Grilled Shrimp Spicy - ساندوتش جمبرى مشوى حار price: 90 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 222 name: Fried Calamari Sandwich Spicy - ساندوتش كالمارى مقلى حار price: 40 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 223 name: Grilled Calamari Sandwich - ساندوتش كالمارى مشوى price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 224 name: Grilled Calamari Sandwich Spicy - ساندوتش كالمارى مشوى حار price: 45 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 225 name: Fried Mixed Seafood - مكس سى فود مقلى price: 70 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 226 name: Seafood Mix Spicy - ساندوتش مكس سى فود حار price: 70 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 227 name: Fish Fillet Sandwich fried spicy - ساندوتش سمك فيلية مقلى حار price: 40 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 228 name: Fish Fillet Sandwich Grilled - ساندوتش سمك فيلية مشوى price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 229 name: Fish Fillet Sandwich Grilled Spicy - ساندوتش سمك فيلية مشوى حار price: 60 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 230 name: Seafood Mix Grilled - ساندوتش مكس سى فود مشوى price: 100 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 231 name: Grilled Mixed Seafood (SPICY) - ساندوتش مكس سى فود مشوى سبايسى price: 100 category: EE - All Day Sandwiches ساندوتشات طول اليوم description:
+id: 232 name: Baba ghanoush salad - بابا غنوج price: 15 category: EE - Salads سلطات description: Small
+id: 233 name: Pickled Eggplant With Tomato And Garlic - بتنجان مخلل مع الطماطم والثوم price: 20 category: EE - Salads سلطات description:
+id: 234 name: Egyptian Balady Salad - سلطة بلدى price: 15 category: EE - Salads سلطات description: Small
+id: 235 name: Tehina - طحينة price: 15 category: EE - Salads سلطات description: Small
+id: 236 name: Mixed Pickles - طرشى price: 12 category: EE - Salads سلطات description: Small
+id: 237 name: Pickled Cucumber - خيار مخلل price: 12 category: EE - Salads سلطات description: Small
+id: 238 name: Pickled Cucumber - خيار مخلل price: 18 category: EE - Salads سلطات description: Large
+id: 239 name: Baba ghanouj - بابا غنوج price: 25 category: EE - Salads سلطات description: Large
+id: 240 name: Egyptian Balady salad - سلطة بلدى price: 25 category: EE - Salads سلطات description: Large
+id: 241 name: Tehina - طحينة price: 25 category: EE - Salads سلطات description: Large
+id: 242 name: Mixed Pickles - طرشى price: 20 category: EE - Salads سلطات description: Large
+id: 243 name: Toumeya - سلطة ثومية price: 17 category: EE - Salads سلطات description: Small
+id: 244 name: Pastrami   - بسطرمة price: 15 category: EE - Extra Items اضافات description:
+id: 245 name: Sujouk ٍ - سجق price: 15 category: EE - Extra Items اضافات description:
+id: 246 name: Liver   - كبدة price: 10 category: EE - Extra Items اضافات description:
+id: 247 name: Tahina -  طحينة price: 5 category: EE - Extra Items اضافات description:
+id: 248 name: egg  -بيض price: 8 category: EE - Extra Items اضافات description:
+id: 249 name: Cheddar cheese  -جبنة شيدر price: 8 category: EE - Extra Items اضافات description:
+id: 250 name: French fries - بطاطس مقلية price: 25 category: EE - Box علب description:
+id: 251 name: Fried potato - بطاطس المقلية price: 45 category: EE - Box علب description: Large
+id: 252 name: Ta3meya - طعمية price: 16 category: EE - Box علب description: 3 piece
+id: 253 name: Ta3meya - طعمية price: 32 category: EE - Box علب description: 6 piece
+id: 254 name: Foul box tahina - علبة فول بالطحينة price: 28 category: EE - Box علب description:
+id: 255 name: Foul Box Classic  - علبة  فول كلاسيك price: 25 category: EE - Box علب description:
+id: 256 name: Foul olive oil box - علبة  فول بزيت الزيتون price: 28 category: EE - Box علب description:
+id: 257 name: Lentil Mash “Medames - علبة عدس مدمس price: 25 category: EE - Box علب description:
+id: 258 name: E.E - Grilled Fish/Calamari Sandwiches Combo - كومبو سندوتشات سمك او كالمارى مشوى price: 275 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: Choose 4 sandwiches of Grilled Fish Fillet or Calamari + 1 Large   Fried Potatoes Box + 2 Drinks
+id: 259 name: E.E - Fried Seafood Sandwiches Combo - كومبو سندوتشات سى فود مقلى price: 200 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: Choose 4 sandwiches of Fried (Normal or Spicy) Fish Fillet or   Calamari + 1 Large Fried Potatoes Box + 2 Drinks
+id: 260 name: E.E - 8 Mega Meat Fino Combo -  كومبو ال 8 ميجا فينو price: 250 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: Choose 4 Fino Sandwiches ( Kebda / Kofta / Sujouk) + 4 Fino   Minced beef with (Eggs / Cheese / vegetables) + I Large Fried Potatoes box +   I Large Pickles +2 Drinks
+id: 261 name: E.E - Triple Saj Combo - كومبو صاج ثلاثى price: 225 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: Choose 3 Snadwiches of Chicken or Kofta or seafood options + 1   Large Fried Potatoes Box + 2 Drinks
+id: 262 name: E.E - 4 Meat Fino combo - كومبو ال4 فينو price: 135 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: Choose 4 Fino Sandwiches ( Kebda / Kofta / Sujouk/ Minced beef   Eggs / Cheese / vegetables) + I Large Fried Potatoes box +2 Drinks
+id: 263 name: E.E - Grilled Shrimps Combo - كومبو جمبرى مشوي price: 110 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Grilled Shrimps Saj + I Fries Mediem + 1 Drink
+id: 264 name: E.E - Fried Shrimps Combo - كومبو جمبرى مقلي price: 90 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Fried Shrimps (Normal or Spicy)+ I Fries Mediem + 1 Drink
+id: 265 name: E.E - Grilled Mixed Seafood Combo - كومبو مكس سى فود مشوى price: 120 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Grilled Mixed Seafood Saj + I Fries Medium + 1 Drink
+id: 266 name: E.E - Fried Mixed Seafood Combo - كومبو مكس سى فود مقلى price: 100 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Fried Mixed Seafood (Normal or Spicy)+ I Fries Mediem + 1   Drink
+id: 267 name: E.E - Single Grilled Seafood Combo - كومبو سي فود مشوي سنجل price: 100 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Grilled Fish Fillet OR Calamari Saj + I Fries Medium + 1 Drink
+id: 268 name: E.E - Single Fried Seafood Combo - كومبو سي فود مقلى سنجل price: 75 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Fried Fish Fillet OR Calamari + I Fries Medium + 1 Drink
+id: 269 name: E.E - Single Liver Rada Combo - كومبو كبده بالرده price: 90 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Liver 'Rada' Fried + I Fries Medium + 1 Drink
+id: 270 name: E.E - Single Chicken Saj Combo  -  كومبو دجاج صاج سنجل price: 100 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Grilled Chicken Kifta OR Shishtawook Saj + I Fries Medium + 1   Drink
+id: 271 name: E.E - Single Mombar Saj Combo - كومبو ممبار صاج سنجل price: 90 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Mombar Roll + I Fries Medium + 1 Drink
+id: 272 name: E.E - Single Kofta Saj Combo - كومبو كفته صاج سنجل price: 90 category: EE - IFTAR / SOHOUR COMBOS - وجبات الافطار او السحور description: 1 Grilled Kofta Saj + I Fries Medium + 1 Drink
+id: 273 name: Chocolate Pudding - بودنج شيكولاته price: 25 category: EE - Desserts حلويات description:
+id: 274 name: Lotus Pudding - بودنج لوتس price: 25 category: EE - Desserts حلويات description:
+id: 275 name: Mahalabia - مهلبية price: 25 category: EE - Desserts حلويات description:
+id: 276 name: Rice Pudding - أرز باللبن price: 25 category: EE - Desserts حلويات description:
+id: 277 name: E.E - Chocolotus Mix - شوكولوتس مكس price: 25 category: EE - Desserts حلويات description:
+id: 278 name: E.E - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: EE - Desserts حلويات description:
+id: 279 name: E.E -Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: EE - Desserts حلويات description:
+id: 280 name: Mineral Water 600ml - مياه معدنيه price: 12 category: EE - Drinks مشروبات description:
+id: 281 name: Coca Cola Cans -كوكا كولا كانز price: 16 category: EE - Drinks مشروبات description:
+id: 282 name: Sprite Cans - سبرايت كانز price: 16 category: EE - Drinks مشروبات description:
+id: 283 name: Fanta Orang Cans - فانتا برتقال كانز price: 16 category: EE - Drinks مشروبات description:
+id: 284 name: Fanta Apple Cans - فانتا تفاح كانز price: 16 category: EE - Drinks مشروبات description:
+id: 285 name: E.E  Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: EE - Drinks مشروبات description:
+id: 286 name: E.E - كوكاكولا 1 لتر price: 22 category: EE - Drinks مشروبات description:
+id: 287 name: E.E - فانتا برتقال 1 لتر price: 22 category: EE - Drinks مشروبات description:
+id: 288 name: E.E - سبرايت 1 لتر price: 22 category: EE - Drinks مشروبات description:
+"id: 289 name: E,E - Feta cheese tomato جبنة فيتا بالطماطم price: 20 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:"
+id: 290 name: E.E - Ta3meya 3 piece box -   طعمية 2 قطع price: 16 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 291 name: E.E - Eggs basterma - طبق بيض بالبسطرمة price: 40 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 292 name: E.E - Eggs Omlette -   طبق بيض أومليت price: 25 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 293 name: E.E- Boiled Egg 1 Piece - بيض مسلوق  1قطعة price: 12 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 294 name: E.E- Eggplant - باذنجان مقلى price: 12 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 295 name: E.E - Foul classic -  طبق فول كلاسيك price: 12 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 296 name: E.E - foul tahina - طبق فول بالطحينة price: 15 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 297 name: E.E - Foul Olive Oil -  طبق فول بزيت الزيتون price: 15 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 298 name: E.E - Lentil Mash “Medames” -  طبق عدس بيوريه ’مدمس’ price: 12 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 299 name: E.E - Lentil Olive Oil -  طبق عدس بزيت الزيتون price: 15 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 300 name: E.E - Lentil Tahina - طبق عدس طحينة price: 15 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 301 name: E.E - Foul ta3meya - طبق فول بالطعمية price: 17 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 302 name: E.E - Lentil Vegetables -  طبق عدس خضار price: 15 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 303 name: E.E- Eggs Feta Cheese -  طبق بيض بالجبنة الفيتا price: 25 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 304 name: E.E - Foul Sujouk -  طبق فول بالسجق price: 20 category: Egyptian Eats - Plates Menu - قايمة الاطباق description:
+id: 305 name: Kebda Fino - كبدة ساندوتش فى عيش فينو price: 25 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 306 name: E.E - Sujouk Fino - سجق فينو price: 25 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 307 name: Kofta Fino  - كفتة فينو price: 25 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 308 name: E.E - Eggs Pastrami - بسطرمة بالبيض price: 20 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 309 name: E.E -  Fried Eggs Plain - بيض اومليت price: 15 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 310 name: E.E -Boiled Egg Feta Cheese - بيض مسلوق بالجبنة price: 15 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 311 name: E.E - Boiled Eggs Fino - فينو بيض مسلوق price: 15 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 312 name: E.E- Feta Cheese Fino - فينو جبنة فيتا بالطماطم price: 12 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 313 name: E.E - Roumi cheese - جبنة رومى price: 15 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 314 name: E.E - Fried potato cheese - بطاطس بالجبنة price: 12 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 315 name: E.E - Fried Potato Tahina - بطاطس طحينة price: 10 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 316 name: E.E - Fried potato Ketchup Mayo- بطاطس كاتشب مايو price: 10 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 317 name: E.E -Minced Beef Boiled Eggs Fino - فينو لحم مفروم بالبيض المسلوق price: 20 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 318 name: E.E -Minced beef cheese - لحم مفروم بالجبنة price: 20 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 319 name: E.E - Mice beef vegetables - لحمة مفرومة بالخضار price: 15 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 320 name: E.E - Ta3meya Fino - طعمية فينو price: 10 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 321 name: E.E- Potato Puree Fino - فينو بطاطس بوريه price: 12 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 322 name: E.E- Fried Chicken Fino - فينو فراخ مقلية price: 20 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 323 name: E.E -  Potato Puree Parsley Fino - فينو بطاطس بيوريه بقدونس price: 12 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 324 name: E.E - Pane Potato puree Fino  - فينو بطاطس بيوريه بانيه price: 12 category: Egyptian Eats - Fino Sandwiches -  سندوتشات عيش فينو description:
+id: 325 name: E.E - The OK Meal - وجبة اوكى الاوكى price: 120 category: Egyptian Eats - Value Plates Meals - وجبات الاطباق القيمة description: Choose 3 Plates from the selection list + 1 Dessert .1 small Salad + 2 Bread + 1 Drink اختار 4 اصناف من قائمة الاختيارات + 1 حلو.يقدم واحد سلاطة صغير مع هذه الوجبة.+ 1 مشروب كانز
+id: 326 name: E.E - The TAMAM Meal - وجبة تمام التمام price: 175 category: Egyptian Eats - Value Plates Meals - وجبات الاطباق القيمة description: Choose 6   sohour Dishes + 2 Small Salads + 6 Bread+    2 Dessert + 2 Drinksاختر   6 أطباق سحور + 2 سلطة صغيرة + 6 خبز + 2 حلويات + 2 مشروب
+id: 327 name: E.E - The FULL Meal - وجبة فل الفل price: 150 category: Egyptian Eats - Value Plates Meals - وجبات الاطباق القيمة description: Choose 4 sohour Dishes + 2 Small Salads + 1 Dessert + 1 Drinkاختر   4 أطباق سحور + 2 سلطة صغيرة + 1 حلوي + 1 مشروب
+"id: 328 name: E.E - The 100/100 Meal - وجبة 100/100 price: 275 category: Egyptian Eats - Value Plates Meals - وجبات الاطباق القيمة description: 4   Ta3meya pieces, 4 Boiled Eggs, 1 Feta cheese Tomatoes dish, 1 Large Fried   Potatoes Box, 1 Lentils Mashed with Vegetables Box, 1 Foul Box, 1 Pickles   Eggplant, 1 Tahina Small, 1 Pickles Small, 8 Bread, 2 Mahalabia , 2 Rice   Pudding , 2 Coca Cola, 2 Spriteاربع   قطع طعمية ، 4 بيض مسلوق ، 1 طبق جبن فيتابطماطم ، 1 بطاطاس مقلية كبير ، 1 عدس   مهروس مع الخضار ، 1 فول بوكس ، 1 مخلل باذنجان ، 1 طحينة صغير ، 1 مخلل صغير ،   8 خبز ، 2 مهلبية ، 2 أرز باللبن ، 2 كوكاكولا ، 2 سبرايت"
+id: 329 name: Lesan 3asfour لسان عصفور price: 30 category: TE - Soup شوربه description:
+id: 330 name: Molokheya ملوخية price: 45 category: TE - Soup شوربه description:
+id: 331 name: Lentil Soup - شوربة عدس price: 45 category: TE - Soup شوربه description:
+id: 332 name: TE - Vegetable Soup  - شوربة خضار price: 40 category: TE - Soup شوربه description:
+id: 333 name: Baba ghanouj - بابا غنوج price: 15 category: TE - Appetizers and Salads مقبلات وسلطات description: Small
+id: 334 name: Tahina - طحينة price: 20 category: TE - Appetizers and Salads مقبلات وسلطات description: Small
+id: 335 name: Pickled eggplant with tomato and garlic - بتنجان مخلل مع الطماطم والثوم price: 25 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 336 name: Green Balady salad - سلطة بلدى price: 15 category: TE - Appetizers and Salads مقبلات وسلطات description: Small
+id: 337 name: Oriental Pickles  - طرشى price: 15 category: TE - Appetizers and Salads مقبلات وسلطات description: Small
+id: 338 name: Pickled Cucumber - خيار مخلل price: 15 category: TE - Appetizers and Salads مقبلات وسلطات description: Small
+id: 339 name: Grilled kofta bites - كفتة مشوية price: 125 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 340 name: Shish tawook شيش طاووق price: 125 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 341 name: Mombar - ممبار price: 75 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 342 name: FRIED Mombar 'Comida Invention' ممبار مقلى price: 85 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 343 name: Pickled Cucumber - خيار مخلل price: 20 category: TE - Appetizers and Salads مقبلات وسلطات description: Large
+id: 344 name: Baba ganouj - بابا غنوج price: 25 category: TE - Appetizers and Salads مقبلات وسلطات description: Large
+id: 345 name: Balady salad - سلطة بلدى price: 25 category: TE - Appetizers and Salads مقبلات وسلطات description: Large
+id: 346 name: Tahina - طحينة price: 25 category: TE - Appetizers and Salads مقبلات وسلطات description: Large
+id: 347 name: Pickles - طرشى price: 25 category: TE - Appetizers and Salads مقبلات وسلطات description: Large
+id: 348 name: Kobeba - كبيبة price: 75 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 349 name: vine leaves - ورق عنب price: 60 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 350 name: Balady bread - عيش بلدى price: 2 category: TE - Appetizers and Salads مقبلات وسلطات description:
+id: 351 name: Kabab Hala - كباب حله price: 130 category: TE - Meat Tajin طواجن لحمه description:
+id: 352 name: Vegetables with meat - خضار باللحمة price: 130 category: TE - Meat Tajin طواجن لحمه description:
+id: 353 name: Chicken m3amar - معمر فراخ price: 130 category: TE - Meat Tajin طواجن لحمه description:
+id: 354 name: Bechamel penne pasta with minced meat - مكرونة بشاميل باللحمة المفرومة price: 100 category: TE - Meat Tajin طواجن لحمه description:
+"id: 355 name: Seafood rice"" Sayadeya "" tajin  - طاجن سى فود ""ارز صيادية price: 200 category: TE - Meat Tajin طواجن لحمه description:"
+"id: 356 name: Grits ""Freeka"" With meat - طاجن فريك باللحم price: 130 category: TE - Meat Tajin طواجن لحمه description:"
+id: 357 name: okra with  meat - بامية باللحمة price: 130 category: TE - Meat Tajin طواجن لحمه description:
+id: 358 name: Potato with meat -  طاجن بطاطس بالحمة price: 130 category: TE - Meat Tajin طواجن لحمه description:
+id: 359 name: Meat Fattah red sauce - فته باللحمة price: 200 category: TE - Meat Tajin طواجن لحمه description:
+id: 360 name: Orzo Seafood Tajin  - طاجن سى فود لسان عصفور price: 200 category: TE - Meat Tajin طواجن لحمه description:
+id: 361 name: Rice Fatteh فتة ارز سادة price: 80 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 362 name: Rice with vermicelli - ارز بالشعرية price: 45 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 363 name: Plain Basmati rice - ارز بسمتى سادة price: 50 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 364 name: Vegetable Basmati rice - ارز بسمتى بالخضار price: 60 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 365 name: Mousaka Plain - مسقعة price: 80 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 366 name: Vermicelli Plain - شعرية سادة price: 40 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 367 name: Vermicelli Veggies - شعرية بالخضار price: 45 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 368 name: Vegetables 'TORLI' - تورلى خضار price: 80 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 369 name: French Fries - بطاطس محمرة price: 25 category: TE - Vegetables and carbs خضار ونشويات description: Medium
+id: 370 name: Egyptian white rice - ارز ابيض مصرى price: 40 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 371 name: El Dolma - الدولما price: 80 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 372 name: Negresco Pasta - مكرونة نجرسكو price: 160 category: TE - Vegetables and carbs خضار ونشويات description:
+id: 373 name: Mix Cheese GOLASH - جلاش مكس جبن price: 175 category: TE - GOLASH  جلاش description:
+id: 374 name: Kofta GOLASH - جلاش كفتة price: 225 category: TE - GOLASH  جلاش description:
+id: 375 name: TE - KING Family Meal - وجبة عيلة الملك price: 1200 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: Choose any of 4 Meat Tajin + 2 Veggie Tajin + 2 Appetizers + 2   Large Salads + 4 Soups + 4 Sides + 10 Bread + 4 Desserts + 4 Drinks
+id: 376 name: TE - Tajin & Dolma Combo - كومبو الطاجن والدولما price: 250 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: 1 Meat Tajin + 1 Dolma stuffed Vegetables + 1 Small Salad + 1   Drink
+"id: 377 name: TE - Fattah Meat Combo - كومبو فته لحمه price: 225 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: fattah with meat, choice of 1 dessert & 1 drinkوجبة  فتة لحم  + 1 حلوي + 1 مشروب"
+id: 378 name: TE - Mombar + Golash Combo - كومبو ممبار + الجلاش price: 280 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: 1 Golash Kofta OR Mixed Cheese + 1 Mombar Normal OR Panee +1   Dessert + 1 Drink1   جلاش كفتة أو مشكل جبن + 1 ممبار عادي أو    + 1 حلوى + 1 مشروب
+id: 379 name: TE - Bechamel Combo - كومبو بشاميل price: 145 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: 1 Bechamel Pasta Tajin + 1 Small Salad + 1 Dessert + 1 Drinkطاجن   مكرونة بشاميل + 1 سلطة صغيرة + 1 حلوي + 1 مشروب
+id: 380 name: TE - MIX Combo (Meat + Veggie Tajin)  - كومبو مكس price: 275 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: Choose any of 1 Meat Tajin + 1 Veggie Tajin + I Side + I Soup +   1 Dessertاختر   أي طاجن لحم + طاجن خضار + طبق جانبي + شوربة + 1 حلوى
+id: 381 name: TE - QUEEN Family Meal - وجبة عيلة الاميرة price: 900 category: TE - RAMADAN Combo Meals - وجبات رمضان الكومبو description: Choose any of 2 Meat Tajin + 1 Veggie Tajin + 1 Golash + 1   Protein Bites Dish + 1 Appetizer + 3 Small Salads + 3 Soups + 10 Bread + 3   Desserts + 3 Drinksختر أي 2 طاجن لحم + طاجن خضار + 1 جولاش + 1 طبق بروتين بايتس + 1 مقبلات + 3 سلطات   صغيرة + 3 شوربة + 10 خبز + 3 حلويات + 3 مشروبات
+id: 382 name: pudding  - مهلبية price: 25 category: TE - Dessert حلويات description:
+id: 383 name: Rice Pudding  -ارز باللبن price: 25 category: TE - Dessert حلويات description:
+id: 384 name: Chocolate Pudding  -  بودنج شيكولاته price: 25 category: TE - Dessert حلويات description:
+id: 385 name: Lotus Pudding  -  بودنج لوتس price: 25 category: TE - Dessert حلويات description:
+id: 386 name: TE - Chocolate Malban Tajin -  طاجن شوكولاته بلملبن price: 150 category: TE - Dessert حلويات description:
+id: 387 name: TE - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: TE - Dessert حلويات description:
+id: 388 name: T.E - Chocolotus Mix - شوكولوتس مكس price: 25 category: TE - Dessert حلويات description:
+id: 389 name: T.E -Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: TE - Dessert حلويات description:
+id: 390 name: Coca Cola Cans - كوكا كولا كانز price: 16 category: TE - Drinks مشروبات description:
+id: 391 name: Sprite Cans - سبرايت كانز price: 16 category: TE - Drinks مشروبات description:
+id: 392 name: Fanta Orang Cans - فانتا برتقال كانز price: 16 category: TE - Drinks مشروبات description:
+id: 393 name: Mineral Water 600ml - مياه معدنيه price: 12 category: TE - Drinks مشروبات description:
+id: 394 name: Fanta Apple Cans - فانتا تفاح كانز price: 16 category: TE - Drinks مشروبات description:
+id: 395 name: Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: TE - Drinks مشروبات description:
+id: 396 name: TE - كوكاكولا 1 لتر price: 22 category: TE - Drinks مشروبات description:
+id: 397 name: TE - فانتا برتقال 1 لتر price: 22 category: TE - Drinks مشروبات description:
+id: 398 name: TE - سبرايت1 لتر price: 22 category: TE - Drinks مشروبات description:
+id: 399 name: C.P-Chicken quesadillas - تشيكن كاساديا price: 125 category: CP - Appetizers مقبلات description:
+id: 400 name: C.P-Mozzarella Sticks - صوابع موتزريلا price: 95 category: CP - Appetizers مقبلات description: 6 pieces
+id: 401 name: C.P-Green salad - سلطة بلدى price: 15 category: CP - Appetizers مقبلات description:
+id: 402 name: C.P-French Fries Medium - بطاطس محمرة وسط price: 20 category: CP - Appetizers مقبلات description:
+id: 403 name: C.P--Coleslaw(small) - كول سلو price: 25 category: CP - Appetizers مقبلات description:
+id: 404 name: C.P-Black Lentil Salad(large) -  سلطة عدس سوداء price: 40 category: CP - Appetizers مقبلات description:
+id: 405 name: C.P - Green Salad (Large)- سلطة بلدى(كبير) price: 30 category: CP - Appetizers مقبلات description:
+id: 406 name: C.P - Coleslaw (Large)- كول سلو(كبير) price: 50 category: CP - Appetizers مقبلات description:
+id: 407 name: C.P- Sambousek cheese-سمبوسك جبنة price: 80 category: CP - Appetizers مقبلات description: 6 pieces
+id: 408 name: C.P- Sambousek Chicken  -  سمبوسك فراخ price: 90 category: CP - Appetizers مقبلات description: 6 pieces
+id: 409 name: C P - French Fries Box -  بطاطس محمرة (علبة) price: 50 category: CP - Appetizers مقبلات description:
+"id: 410 name: Chicken original Sub - فراخ بانية ساندوتش price: 90 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description: Chicken breasts fried to perfection in our soft bread crumb topped with Mayo, cheddar cheese, tomatoes and shredded lettuce served on a Freshly baked Vienna bread"
+"id: 411 name: Crispy Chick Sando - سادو شك كرسبى price: 110 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description: Crunchy chicken fillet fried to perfection dipped with Mayonnaise) topped with American cheese, smoked turkey, jalapeno, pickled cucumber, tomato, lettuce served on Semolina round bun."
+"id: 412 name: Chicken Strip in Wrap - فراخ استربس فى عيش تورتيلا price: 65 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description: Fried chicken strips smothered in our comida mayo sauce topped with shredded lettuce, tomatoes served on our thick tortilla bread"
+id: 413 name: Chick N' Mince Sandwich  - فراخ مفرومة مقلية price: 75 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description: A fried patty of minced chicken served on a bed of Mayo and chopped lettuce
+id: 414 name: C.P- Crispy Fried Chicken Mozarella Sando - فراخ كرسبى موتزاريلا ساندو price: 100 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 415 name: C.P - Crispy Chicken Bacon-  فراخ كرسبى بيكون price: 110 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 416 name: C.P - Mushroom Chedder Sauce Sando - فراخ بالمشروم صوص شيدر price: 100 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 417 name: C.P - Spicy Fried Chick Sando - فرايد تشيكن سبايسي ساندو price: 110 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 418 name: C.P- Round Chicken Pane Sandwich - فراخ بانيه دائرى price: 60 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 419 name: C.P- Grilled Chicken Cabbage Slaw - صدر فراخ مشوى مع كول سلو price: 75 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 420 name: C.P - Chicken Cheesy Juicy - شيزى جوسى فراخ price: 80 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 421 name: C.P- Chicken & Fried Potato Puree Burger -   برجر فراخ مع بطاطس بوريه مقلية price: 60 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 422 name: C.P - Grilled Chicken Cheese Burger - برجر فراخ بالجبنة price: 80 category: CP - Chicken Wiches (تشيكن ويتش (ساندوتشات فراخ description:
+id: 423 name: C P - Crispy Deep Fried Chicken Shawerma 500g - شاورمة فراخ مقلية كريسبي 500 جم price: 300 category: CP - Crispy Deep Fried Chicken Shawerma 500g كرسبى شاورما فراخ مقلىة 500 جم description:
+id: 424 name: crepe nutella - كريب نوتيلا price: 90 category: CP - Desserts حلويات description:
+id: 425 name: Banana and caramel crepe - كريب موز وكراميل price: 80 category: CP - Desserts حلويات description:
+id: 426 name: C P - Chocolate Pudding - بودنج شيكولاته price: 25 category: CP - Desserts حلويات description:
+id: 427 name: C P - Lotus Pudding -بودنج لوتس price: 25 category: CP - Desserts حلويات description:
+id: 428 name: C.P - Chocolotus Mix - شوكولوتس مكس price: 25 category: CP - Desserts حلويات description:
+id: 429 name: C.P - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: CP - Desserts حلويات description:
+id: 430 name: C.P -Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: CP - Desserts حلويات description:
+id: 431 name: C P Mineral Water 600ml - مياه معدنيه price: 12 category: CP - Drinks مشروبات description:
+id: 432 name: C P -Coca Cola Cans - كوكا كولا كانز price: 16 category: CP - Drinks مشروبات description:
+id: 433 name: C P - Sprite Cans - سبرايت كانز price: 16 category: CP - Drinks مشروبات description:
+id: 434 name: C P - Fanta Orang Cans - فانتا برتقال كانز price: 16 category: CP - Drinks مشروبات description:
+id: 435 name: C.P  Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: CP - Drinks مشروبات description:
+id: 436 name: C.P - كوكاكولا 1 لتر price: 25 category: CP - Drinks مشروبات description:
+id: 437 name: C.P - فانتا برتقال 1 لتر price: 25 category: CP - Drinks مشروبات description:
+id: 438 name: C.P - سبرايت 1 لتر price: 25 category: CP - Drinks مشروبات description:
+id: 439 name: C P - Mushrooms - مشروم price: 25 category: CP - Extra Items اضافات description:
+id: 440 name: C P - American cheese - جبنة price: 15 category: CP - Extra Items اضافات description:
+id: 441 name: C P - Beef Bacon - بيف باكن price: 30 category: CP - Extra Items اضافات description:
+id: 442 name: C P - WHITE ONIONS - البصل الابيض price: 5 category: CP - Extra Items اضافات description:
+id: 443 name: C P - Chicken Strip Piece -قطعة استربس price: 30 category: CP - Extra Items اضافات description:
+id: 444 name: C P - Chicken Wing Piece - جناح دجاج  قطعة price: 20 category: CP - Extra Items اضافات description:
+id: 445 name: C P -Chicken Drum Piece - دبوس دجاج  قطعة price: 40 category: CP - Extra Items اضافات description:
+id: 446 name: C P -Breast WHITE 1Pice - ورك فرخة 1قطعة price: 55 category: CP - Extra Items اضافات description:
+id: 447 name: CP -Dark Thigh1 Pice - صدور فراخ 1قطعة price: 50 category: CP - Extra Items اضافات description:
+id: 448 name: C P -Extra Mayo- مايونيز price: 10 category: CP - Extra Items اضافات description:
+id: 449 name: CP- Extra BBQ- باربكيو صوص price: 10 category: CP - Extra Items اضافات description:
+id: 450 name: CP- Extra Ketchup Mayo - كاتشب مايو صوص price: 10 category: CP - Extra Items اضافات description:
+id: 451 name: C P - Sweet Chili  - سويت شيلى price: 15 category: CP - Dipping Sauce صوص description:
+id: 452 name: C P - BBQ Sauce - باربيكو صوص price: 15 category: CP - Dipping Sauce صوص description:
+id: 453 name: C P -Ketchup mayo Sauce - كاتشب مايو صوص price: 15 category: CP - Dipping Sauce صوص description:
+id: 454 name: C P - BBQ Mayo Sauce - باربيكو مايو صوص price: 15 category: CP - Dipping Sauce صوص description:
+id: 455 name: C.P- Classic Burger - كلاسيك برجر price: 50 category: CP - Beef Burgers - برجر لحم description:
+id: 456 name: C.P- Classic Cheese Burger - كلاسيك تشيز برجر price: 65 category: CP - Beef Burgers - برجر لحم description:
+id: 457 name: C.P - BBQ Cheddar Burger - برجر بربيكيو شيدار price: 80 category: CP - Beef Burgers - برجر لحم description:
+id: 458 name: C.P- Threesome Cheese Burger - برجر ثلاث جبن price: 90 category: CP - Beef Burgers - برجر لحم description:
+id: 459 name: C.P- Fried Mashed Potato Cheese Burger - برجر بطاطس بيوريه مقلى بالجبنة price: 80 category: CP - Beef Burgers - برجر لحم description:
+"id: 460 name: Black Lentil Salad( Large)-  سلطة عدس سوداء price: 50 category: C.M.F - Salads سلطات description: black lentil, parsley, bell peppers & onions with a   lemon-olive oil dressing"
+id: 461 name: Pickled Cucumber (Small)- خيار مخلل(صغير) price: 15 category: C.M.F - Salads سلطات description:
+id: 462 name: Potato Salad (large) - سلطة بطاطس (كبير) price: 50 category: C.M.F - Salads سلطات description:
+id: 463 name: Garden Salad Slices - شرائح سلاطة خضراء price: 60 category: C.M.F - Salads سلطات description:
+"id: 464 name: Nicoise Salad - نسواز سلاد price: 100 category: C.M.F - Salads سلطات description: tuna, boiled eggs, potatoes, anchovy, onions, tomato, green   beans, lettuce, pickled black olives & Vinaigrette dressing"
+id: 465 name: Mixed Green Salad -   مكس  جرين سالاد price: 50 category: C.M.F - Salads سلطات description:
+id: 466 name: Rocca salad - سلطة جرجير price: 100 category: C.M.F - Salads سلطات description:
+id: 467 name: C.M.F-  Chicken Ceasar Salad - تشيكن سيزر price: 125 category: C.M.F - Salads سلطات description:
+id: 468 name: C.M.F-  Greek Salad - جريك سلطة price: 75 category: C.M.F - Salads سلطات description:
+id: 469 name: C.M.F- Roasted COLD Vegetable Salad -  خضار روست سلطة price: 75 category: C.M.F - Salads سلطات description:
+id: 470 name: C.M.F- Tuna Salad -  سلطة تونة price: 100 category: C.M.F - Salads سلطات description:
+id: 471 name: C.M.F- Artichoke feta Salad -  سلاطة خرشوف price: 75 category: C.M.F - Salads سلطات description:
+id: 472 name: Carrot Soup - شوربة جزر price: 65 category: C.M.F - Soups شوربة description:
+id: 473 name: Mushroom Soup -  شوربة مشروم price: 75 category: C.M.F - Soups شوربة description:
+id: 474 name: Tomato Soup - شوربة طماطم price: 60 category: C.M.F - Soups شوربة description:
+id: 475 name: Shrimp Bisque Soup - بسك جمبرى price: 100 category: C.M.F - Soups شوربة description:
+id: 476 name: BISQUE Brown Seafood - بسك براون سى فود price: 100 category: C.M.F - Soups شوربة description:
+id: 477 name: Chicken Penne Alfredo - بنا الفريدو دجاج price: 180 category: C.M.F - Pasta Corner  ركن الباستا description:
+id: 478 name: Fettuccine Red Sauce - مكرونة بالصوص الاحمر price: 75 category: C.M.F - Pasta Corner  ركن الباستا description:
+id: 479 name: Negresco Pasta - مكرونة نجرسكو price: 165 category: C.M.F - Pasta Corner  ركن الباستا description:
+id: 480 name: C.M.F - Seafood Pasta Red Sauce - باستا سى فود صوص احمر price: 200 category: C.M.F - Pasta Corner  ركن الباستا description:
+id: 481 name: C.M.F- Seafood Pasta White Sauce - باستا سى فود صوص ابيض price: 200 category: C.M.F - Pasta Corner  ركن الباستا description:
+"id: 482 name: Grilled chicken breasts  - صدور فراخ مشوية price: 210 category: C.M.F - Main dishes الاطباق الرئيسية description: 250 gm chicken breasts grilled to perfection topped with   Gazpacho Sauce and served with two sides of your choice: Squared Fried   Potatoes, Sautéed Vegetables, Sautéed spinach, Sautéed Mushrooms, Mashed   potatoes, Grilled vegetables, Basmati rice, Baked Potatoes"
+"id: 483 name: Grilled beef fillet  - بيف فيلية مشوى price: 350 category: C.M.F - Main dishes الاطباق الرئيسية description: 250 gm Beef Fillet Tenderloin seasoned with special herbs and   fresh thyme grilled to perfection with our house Shroomed-mayo sauce and   served with two sides of your choice: Squared Fried Potatoes, Sautéed   Vegetables, Sautéed spinach, Sautéed Mushrooms, Mashed potatoes, Grilled   vegetables, Basmati rice, Baked Potatoes"
+"id: 484 name: Bunless Grilled Burgers - برجر مشوي price: 200 category: C.M.F - Main dishes الاطباق الرئيسية description: 2 beef patties, each 150 gm grilled to perfection and topped   with arugula, cherry tomato, colored iceberg lettuce and BBQ sauce served   with vinaigrette dressing. and served with two sides of your choice: Squared   Fried Potatoes, Sautéed Vegetables, Sautéed spinach, Sautéed Mushrooms,   Mashed potatoes, Grilled vegetables, Basmati rice, Baked Potatoes"
+"id: 485 name: Grilled fish fillets - سمك فيلية مشوى price: 200 category: C.M.F - Main dishes الاطباق الرئيسية description: Grilled Fish fillet served with butter lemon sauce and served   with two sides of your choice: Squared Fried Potatoes, Sautéed Vegetables,   Sautéed spinach, Sautéed Mushrooms, Mashed potatoes, Grilled vegetables,   Basmati rice, Baked Potatoes"
+"id: 486 name: Roasted Chicken Roll on a bed of potatoes - فراخ فرن محشية (روستد شيكن رول) فوق شرائح البطاطس price: 225 category: C.M.F - Main dishes الاطباق الرئيسية description: Juicy Chicken breasts slow gently roasted in a sunflower oil   infused with lemon, thyme and fresh rosemary, roasted to perfection with a   variety of handpicked mushrooms caramelized onions and pickled black olives   soaked in demi-glace sauce and topped with mozzarella and cheddar cheese and   served with two sides of your choice: Squared Fried Potatoes, Sautéed   Vegetables, Sautéed spinach, Sautéed Mushrooms, Mashed potatoes, Grilled   vegetables, Basmati rice, Baked Potatoes"
+"id: 487 name: Grilled calamari - كاليمارى مشوى price: 200 category: C.M.F - Main dishes الاطباق الرئيسية description: Freshly grilled calamari and served with two sides of your   choice: Squared Fried Potatoes, Sautéed Vegetables, Sautéed spinach, Sautéed   Mushrooms, Mashed potatoes, Grilled vegetables, Basmati rice, Baked   Potatoes"
+"id: 488 name: Peeled Grilled Shrimps - جمبرى مشوى بدون قشر price: 350 category: C.M.F - Main dishes الاطباق الرئيسية description: 250 gm Special Marinated shell Shrimps grilled to perfection   and served with two sides of your choice: Squared Fried Potatoes, Sautéed   Vegetables, Sautéed spinach, Sautéed Mushrooms, Mashed potatoes, Grilled   vegetables, Basmati rice, Baked Potatoes"
+"id: 489 name: Chicken Pane - فراخ البانيه price: 210 category: C.M.F - Main dishes الاطباق الرئيسية description: chicken pane with choice of side: red sauce pasta, square fried   potatoes"
+id: 490 name: Mashed potatoes - بطاطس بيورية price: 60 category: C.M.F - Side Items - اصناف جانبية description:
+id: 491 name: Square Fried Potatoes - بطاطس مقلية مربعة price: 40 category: C.M.F - Side Items - اصناف جانبية description:
+id: 492 name: Sauteed spinach - سبانخ سوتية price: 60 category: C.M.F - Side Items - اصناف جانبية description:
+id: 493 name: Sauteed mushrooms - مشروم سوتية price: 90 category: C.M.F - Side Items - اصناف جانبية description:
+id: 494 name: Sauteed vegetables - خضار سوتية price: 50 category: C.M.F - Side Items - اصناف جانبية description:
+id: 495 name: Grilled vegetables -  خضار مشوى price: 50 category: C.M.F - Side Items - اصناف جانبية description:
+id: 496 name: Basmati rice - ارز بسمتى price: 50 category: C.M.F - Side Items - اصناف جانبية description:
+id: 497 name: Chicken Quesadillas  - تشيكن كاساديا price: 125 category: C.M.F - Side Items - اصناف جانبية description:
+id: 498 name: C.M.F - Dijon Mustard - مسطردة ديجون price: 25 category: C.M.F - Sauce صوص description:
+id: 499 name: BBQ Sauce - باربكيو صوص price: 15 category: C.M.F - Sauce صوص description:
+id: 500 name: C.M.F - Tartar sauce - صوص تارتار price: 25 category: C.M.F - Sauce صوص description:
+id: 501 name: Lemon Butter Sauce - صوص ليمون بلذبده price: 20 category: C.M.F - Sauce صوص description:
+id: 502 name: E.B - Sujouk Red Sauce - سجق بالصلصة price: 55 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 503 name: E.B - Alex Liver - كبده اسكندرانى price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 504 name: E.B - Spinach Red Sauce - سبانخ بالصلصة price: 40 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 505 name: E.B - Spinach Kofta Red Sauce - كفتة بالسبانخ price: 55 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 506 name: E.B - Chicken Lentils Fattah -  فتة عدس بالفراخ price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 507 name: E.B - Minced Beef Red Sauce - لحم مفروم بالصلصة price: 55 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 508 name: E.B - Chicken & Mixed Vegetables Red Sauceفراخ بالصلصة والخضار price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 509 name: E.B - Fried Chicken BBQ - فراخ مقلية باربيكيو price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 510 name: E.B - Dawood Basha kofta - كفتة داوود باشا price: 55 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 511 name: E.B - Mixed Sea Food Red Sauce - مكس سى فود بالصلصة price: 70 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 512 name: E.B - سمك فيليه مشوى price: 55 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 513 name: E.B - Lentils Plain - فتة عدس سادة price: 40 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 514 name: E.B - Mixed Vegetables - خضار مشكل price: 40 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 515 name: E.B - Meat & Mixed Vegetables -  خضار مكشل باللحمة price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 516 name: E.B - Meat Green Beans Red Sauce - فاصوليا باللحمة بالصلصة price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 517 name: E.B -  Green Beans Red Sauce - فاصوليا بالصلصة price: 50 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 518 name: E.B - Okra Meat Red Sauce - بامية باللحمة price: 60 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 519 name: E.B - Okra Red Sauce - بامية بالصلصة price: 40 category: Egyptian BOWLS -Toppings + Bowl Base - نوع الاضافة (توبنج)+ نوع النشويات description:
+id: 520 name: Crepe Roll Banana caramel - كريب رول موز وكراميل price: 60 category: C.M.F - Dessert حلويات description:
+id: 521 name: Crepe Roll Nutella - كريب رول نوتيلا price: 70 category: C.M.F - Dessert حلويات description:
+id: 522 name: Chocolate Pudding - بودنج شيكولاته price: 25 category: C.M.F - Dessert حلويات description:
+id: 523 name: C.M.F - Lotus Pudding - بودنج لوتس price: 25 category: C.M.F - Dessert حلويات description:
+id: 524 name: C.M.F - Chocolotus Mix - شوكولوتس مكس price: 25 category: C.M.F - Dessert حلويات description:
+id: 525 name: C.M.F -Vermicelli Milk Pudding - شعرية بالكريمة price: 25 category: C.M.F - Dessert حلويات description:
+id: 526 name: E.B - Oriental Pickles 'Torshy' -  طرشى بلدى price: 12 category: E.B - Salads - السلطات description:
+id: 527 name: E.B - Baba ghanouj - باب غنوج price: 15 category: E.B - Salads - السلطات description:
+id: 528 name: E.B - Egyptian Balady Salad سلطة خضرا بلدي price: 12 category: E.B - Salads - السلطات description:
+id: 529 name: E.B- Pickled Cucumbers - خيار مخلل price: 12 category: E.B - Salads - السلطات description:
+id: 530 name: E.B - Tahina - طحينة price: 15 category: E.B - Salads - السلطات description:
+id: 531 name: E.B- Pickled Eggplant Tomato with Garlic - باذنجان مخلل وطماطم مخللة price: 15 category: E.B - Salads - السلطات description:
+id: 532 name: C.M.F -Fanta Orang Cans - فانتا برتقال كانز price: 16 category: C.M.F - Drinks مشروبات description:
+id: 533 name: C.M.F - Sprite Cans - سبرايت كانز price: 16 category: C.M.F - Drinks مشروبات description:
+id: 534 name: C. M. F -Coca Cola Cans - كوكا كولا كانز price: 16 category: C.M.F - Drinks مشروبات description:
+id: 535 name: C.M.F Mineral Water 600ml - مياه معدنيه price: 12 category: C.M.F - Drinks مشروبات description:
+id: 536 name: C.M.F -Fanta Apple Cans - فانتا تفاح كانز price: 16 category: C.M.F - Drinks مشروبات description:
+id: 537 name: C.M.F  Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: C.M.F - Drinks مشروبات description:
+id: 538 name: E.B - Lotus Pudding - بودنج لوتس price: 25 category: E.B - Desserts - حلويات description:
+id: 539 name: E.B -Chocolate Pudding-  بودنج شيكولاته price: 25 category: E.B - Desserts - حلويات description:
+id: 540 name: E.B - Mahalabia - مهلبية price: 25 category: E.B - Desserts - حلويات description:
+id: 541 name: E.B - Rice Milk Pudding - ارز بلبن price: 25 category: E.B - Desserts - حلويات description:
+id: 542 name: E.B - Mahalabia Chocolotus Mix - مهلبية شوكولوتس مكس price: 25 category: E.B - Desserts - حلويات description:
+id: 543 name: E.B - Chocolotus Mix - شوكولوتس مكس price: 25 category: E.B - Desserts - حلويات description:
+id: 544 name: E.B - Vermicelli Milk Pudding  - شعرية بالكريمة price: 25 category: E.B - Desserts - حلويات description:
+id: 545 name: C.M.F- Ossobuco Risotto - ريزتو اسوبكو price: 250 category: C.M.F - Risotto - ريزوتو description:
+id: 546 name: C.M.F- Chicken lemon risotto - ريزوتو ليمون تشكين price: 200 category: C.M.F - Risotto - ريزوتو description:
+id: 547 name: C.M.F -  Seafood Risotto - رزتو سى فود رزتو سى فود price: 200 category: C.M.F - Risotto - ريزوتو description:
+id: 548 name: E-B- Fanta Apple Cans - فانتا تفاح كانز price: 16 category: E.B - Drinks - مشروبات description:
+id: 549 name: E.B - Sprite Cans - سبرايت كانز price: 16 category: E.B - Drinks - مشروبات description:
+id: 550 name: E-B - Fanta Orange Cans - فانتا برتقال كانز price: 16 category: E.B - Drinks - مشروبات description:
+id: 551 name: E-B- Coca Cola Cans - كوكا كولا كانز price: 16 category: E.B - Drinks - مشروبات description:
+id: 552 name: E-B- Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: E.B - Drinks - مشروبات description:
+id: 553 name: E.B - Mineral Water 600ml - مياه معدنيه price: 12 category: E.B - Drinks - مشروبات description:
+id: 554 name: Baked Potatoes - بطاطس فرن price: 60 category: C.M.F - Starters - مقبلات description:
+id: 555 name: C.M.F- Shrimps Pil Pil - جمبرى بالثوم price: 175 category: C.M.F - Starters - مقبلات description:
+id: 556 name: C.M.F- Mixed Grill Seafood - مكس جريل سي فود price: 200 category: C.M.F - Starters - مقبلات description:
+id: 557 name: C.M.F- Frito Misto - فريتو ميستو price: 200 category: C.M.F - Starters - مقبلات description:
+id: 558 name: C.M.F - Fried Calamari Rings - حلقات الكالماري المقلية price: 160 category: C.M.F - Starters - مقبلات description:
+id: 559 name: C.M.F - Chicken Wings (6 pieces) price: 120 category: C.M.F - Starters - مقبلات description:
+id: 560 name: E.B - Fried Mombar Panee - ممبار بانيه price: 85 category: E.B -  Appetizers  - مقبلات description:
+id: 561 name: E.B - Mombar Normal - ممبار عادة price: 75 category: E.B -  Appetizers  - مقبلات description:
+id: 562 name: E.B - Vine Leaves - ورق عنب price: 40 category: E.B -  Appetizers  - مقبلات description:
+id: 563 name: E.B -  El Dolma - الدولما price: 40 category: E.B -  Appetizers  - مقبلات description:
+id: 564 name: E.B - Sambousek Cheese 4 pieces  -  سمبوسك جبنة 4 قطع price: 55 category: E.B -  Appetizers  - مقبلات description:
+id: 565 name: E.B - Sambousek Chicken 4 pieces -  سمبوسك فراخ 4 قطع price: 55 category: E.B -  Appetizers  - مقبلات description:
+id: 566 name: E.B - Sambousek spinach 6 pieces - سمبوسك سبانخ 6 قطع price: 55 category: E.B -  Appetizers  - مقبلات description:
+id: 567 name: E.B - French Fries Medium - بطاطس محمرة وسط price: 15 category: E.B -  Appetizers  - مقبلات description:
+id: 568 name: Mozzarella sticks - أصابع موزاريلا price: 95 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 569 name: Chicken Strips - فراخ كرسبى price: 75 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 570 name: Chicken Wings - اجنحة دجاج price: 75 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 571 name: Turkey Spring Rolls - سبرينج رول تركى price: 80 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 572 name: French Fries (Medium) - بطاطس مقلية (متوسط) price: 20 category: OB - Appetizers  مقبلات description:
+id: 573 name: Pickled Cucmber(small) - خيار مخلل(صغير) price: 15 category: OB - Appetizers  مقبلات description:
+id: 574 name: Coleslaw(small) - كولو سلو(صغير) price: 25 category: OB - Appetizers  مقبلات description:
+id: 575 name: Sambousek chicken - سمبوسك فراخ price: 65 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 576 name: Sambousek spinach - سمبوسك سبانخ price: 65 category: OB - Appetizers  مقبلات description: 6 pieces
+id: 577 name: Fried Calamari Rings - حلقات الكالماري المقلية price: 75 category: OB - Appetizers  مقبلات description:
+id: 578 name: French Fries Box -  بطاطس محمرة (علبة) price: 35 category: OB - Appetizers  مقبلات description:
+id: 579 name: Spring Rolls vegetables -  اسبرنج رول  خضار price: 75 category: OB - Appetizers  مقبلات description: 6 pieces
+"id: 580 name: Beef sliders بيف سليدر price: 130 category: OB - Sliders سلايدرز description: burger, mayo, tahini, tomato, lettuce, mustard, pickled   cucumber, cheedar cheese in a brioche bun, with french fries"
+"id: 581 name: Chicken Sliders تشكن سليدر price: 130 category: OB - Sliders سلايدرز description: chicken burger, pesto sauce, chipotle sauce, mustard, pickled   cucumbers in a brioche bread, with french fries"
+"id: 582 name: Ossobucco Slider اسوبكو سليدر price: 160 category: OB - Sliders سلايدرز description: ossobuco, mustard, demi glace sauce, bechamel, dill, pickled   cucumbers in a brioche bread, with french fries"
+"id: 583 name: Pesto mozzarella burger - بستو موتزريلا برجر price: 135 category: OB - Burgers برجر description: Pesto Mayo, lettuce, Tomato, beef patty, Mozzarella, pesto   Sauce, served with small fries"
+"id: 584 name: spinach mushroom Burger -سبانخ مشروم بالبرجر price: 135 category: OB - Burgers برجر description: Mayo, beef patty, ((sautéed spinach, sautéed mushrooms,)) both   with cooking cream+ tiny chopped onions, Mozzarella Cheese, served with small   fries"
+"id: 585 name: Cheesy Juicy Burger - شيزى جوسى برجر price: 125 category: OB - Burgers برجر description: Ketchup/Mayo, Beef patty stuffed with 2piece American cheese,   served with small fries"
+"id: 586 name: Classic cheeseburger كلاسيك تشيزبرجر price: 115 category: OB - Burgers برجر description: Ketchup, beef patty, Cheddar Cheese, Onion rings (Optional),   served with small fries"
+"id: 587 name: Classic burger -كلاسيك برجر price: 100 category: OB - Burgers برجر description: Ketchup/Mayo, Lettuce, Tomato, Beef patty, pickled cucumbers,   white Onions, , served with small fries"
+"id: 588 name: BBQ cheese burger  - باربكيو تشيزبرجر price: 125 category: OB - Burgers برجر description: BBQ Sauce Mixed with chopped white onions & Pickled   Cucumbers, Beef patty, Red Cheddar Cheese, served with small fries"
+"id: 589 name: The Threesome burger - برجرالثلاثى price: 145 category: OB - Burgers برجر description: Mayo, Beef patty, Cheddar/Emmental/ Mozarella, Caramelized   Onions, served with small fries"
+"id: 590 name: Grilled Chicken Burger - برجر فراخ جريل price: 100 category: OB - Burgers برجر description: Chipotle, mayo, Chicken Patty, Caramelized Apple, served with   small fries"
+"id: 591 name: Mushroom Parmesan Burger  - برجر مشروم بارميزان price: 150 category: OB - Burgers برجر description: Mayo, Beef patty, Mushrooms / Melted parmesan Cheese, served   with small fries"
+"id: 592 name: Burger Dessert Combo - كومبو البرجر مع الحلو price: 175 category: OB - Combo Meals وجبات الكومبو description: your choice of 1 burger, 1 dessert burger, small fries &1   drink"
+"id: 593 name: Appetizing Burger Combo - كومبو برجر فاتح للشهية price: 175 category: OB - Combo Meals وجبات الكومبو description: your choice of 1 burger, 1 appetizer &1 drink"
+"id: 594 name: Burger Combo - كومبو البرجر price: 125 category: OB - Combo Meals وجبات الكومبو description: your choice of 1 burger, small fries &1 drink"
+id: 595 name: Caramelized Onions - بصل مكرمل price: 15 category: OB - Extra اضافات description:
+id: 596 name: cheese - جبنة price: 15 category: OB - Extra اضافات description:
+id: 597 name: Mushrooms - مشروم price: 25 category: OB - Extra اضافات description:
+id: 598 name: Beef Bacon - بيف بيكون price: 20 category: OB - Extra اضافات description:
+id: 599 name: OB - WHITE ONIONS - البصل الابيض price: 10 category: OB - Extra اضافات description:
+id: 600 name: OB - Fried Eggs - بيض مقلى price: 15 category: OB - Extra اضافات description:
+id: 601 name: OB - Cheddar Cheese Sauce -صوص شيدر price: 15 category: OB - Extra اضافات description:
+id: 602 name: OB - BBQ Sauce - صوص باربيكو price: 15 category: OB - Extra اضافات description:
+id: 603 name: OB - Pesto Sauce - بيستوا صوص price: 15 category: OB - Extra اضافات description:
+id: 604 name: OB - Mozzarella Cheese  - موتزاريلا تشيز price: 20 category: OB - Extra اضافات description:
+id: 605 name: OB - Beef Patty - قطعة برجر price: 60 category: OB - Extra اضافات description:
+id: 606 name: OB - Chicken Patty   - قطعة فراخ price: 60 category: OB - Extra اضافات description:
+"id: 607 name: Saqalans Burger - سكالنس برجر price: 70 category: OB - Dessert حلويات description: pancake dough, qeshta, halawa, honey"
+"id: 608 name: Basbousa Burger - بسبوسة برجر price: 80 category: OB - Dessert حلويات description: basbousa, pancake dough, caramel sauce, cream"
+id: 609 name: Nutella Cream Burger -نيوتيلا كريمة برجر price: 85 category: OB - Dessert حلويات description:
+id: 610 name: Chocolate Pudding - بودنج شيكولاته price: 25 category: OB - Dessert حلويات description:
+id: 611 name: Lotus Pudding- بودنج لوتس price: 25 category: OB - Dessert حلويات description:
+id: 612 name: OB - Coca Cola Cans - كوكا كولا كانز price: 16 category: OB - Drinks مشروبات description:
+id: 613 name: OB - Sprite Cans - سبرايت كانز price: 16 category: OB - Drinks مشروبات description:
+id: 614 name: OB - Fanta Orang Cans - فانتا برتقال كانز price: 16 category: OB - Drinks مشروبات description:
+id: 615 name: OB - Mineral Water 600ml - مياه معدنيه price: 12 category: OB - Drinks مشروبات description:
+id: 616 name: OB - Fanta Apple Cans - فانتا تفاح كانز price: 16 category: OB - Drinks مشروبات description:
+id: 617 name: O.B  Coca Cola Cans  Zero- كوكا كولا كانز زيرو price: 16 category: OB - Drinks مشروبات description:
+id: 618 name: OB - كوكاكولا 1 لتر price: 0 category: OB - Drinks مشروبات description:
+id: 619 name: OB - فانتا برتقال1 لتر price: 0 category: OB - Drinks مشروبات description:
+id: 620 name: OB - سبرايت 1 لتر price: 0 category: OB - Drinks مشروبات description:
+id: 621 name: 3A G - L - Fried Chicken BBQ - فراخ مقلية باربيكيو- كبير price: 180 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 622 name: 3A G - L - Chicken Mushroom Alfredo - فراخ مشروم الفريدو- كبير price: 200 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 623 name: 3.A.G - Fera Cheesa Rocolla - جبنة فيتا بالجرجير price: 125 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 624 name: 3A G - L - Mixed Seafood - مكس سى فود - كبير price: 200 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 625 name: 3.A.G - Sujouk - سجق price: 160 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 626 name: 3.A.G - Pastrami Cheese - بسطرمة جبن price: 175 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 627 name: 3A G - Mixed Vegetables - خضار مشكل price: 150 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 628 name: 3A G - L - Turkey Cheese - تركى بالجبنة - كبير price: 200 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 629 name: 3A G - L - Spinach Mushrooms - سبانخ بالمشروم - كبير price: 160 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 630 name: 3A G - L - Tuna  - تونة - كبير price: 175 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 631 name: 3A G - L - Chicken Fajita - فاهيتا فراخ - كبير price: 175 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 632 name: 3A G - L - Kofta GOLASH - جلاش كفتة - كبير price: 170 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 633 name: 3A G - Mix Cheese GOLASH- جلاش مكس جبن price: 160 category: 3A.G - Large Golash Savory - جلاش حادق كبير description:
+id: 634 name: 3A G - S - Mixed Vegetables - خضار مشكل - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 635 name: 3A G - S - Pastrami Cheese  - بسطرمة جبن - صغير price: 125 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 636 name: 3A G - S - Sujouk  - سجق - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 637 name: 3.A.G - Mixed Sea Food  -  مكس سى فود price: 125 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 638 name: 3.A.G - Feta Cheesa Rocolla  - جبنة فيتا بالجرجير price: 85 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 639 name: 3.A.G - Chicken Mushroom Alfredo  - فراخ مشروم الفريدو price: 125 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 640 name: 3.A.G - Fried Chicken BBQ  - فراخ مقلية باربيكيو price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 641 name: 3A G - S - Turkey Cheese - تركى بالجبنة - صغير price: 110 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 642 name: 3A G - S - Spinach Mushroom - سبانخ بالمشروم - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 643 name: 3A G - S - Tuna - تونة - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 644 name: 3A G - S - Chicken Fajita  - فاهيتا فراخ - صغير price: 110 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 645 name: 3A G - S - Mixed Cheese GOLASH - جلاش مكس جبن - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 646 name: 3A G - S - Kofta GOLASH -  جلاش كفتة - صغير price: 100 category: 3A.G -Small Golash Savory - جلاش حادق صغير description:
+id: 647 name: 3A G - Mahalabia - مهلبية price: 75 category: 3A.G - Desserts - حلويات description:
+id: 648 name: 3A G - Custard Qashta - كاسترد بالقشطة price: 120 category: 3A.G - Desserts - حلويات description:
+id: 649 name: 3A G - Banana Caramel  - كراميل بالموز price: 100 category: 3A.G - Desserts - حلويات description:
+id: 650 name: 3A G - Saqalans - سكالنص price: 120 category: 3A.G - Desserts - حلويات description:
+id: 651 name: 3A G - Boghasha - بغاشة price: 75 category: 3A.G - Desserts - حلويات description:
+id: 652 name: 3A G - Halawa Qashta  - حلاوة قشطة عسل price: 100 category: 3A.G - Desserts - حلويات description:
+id: 653 name: 3A G - Baba ghanouj - باب غنوج price: 15 category: 3A.G -  Salads - السلطات description:
+id: 654 name: 3A G - Egyptian Balady Salad سلطة خضرا بلدي price: 12 category: 3A.G -  Salads - السلطات description:
+id: 655 name: 3A G - Oriental Pickles 'Torshy' -  طرشى بلدى price: 12 category: 3A.G -  Salads - السلطات description:
+id: 656 name: 3A G - Tahina - طحينة price: 15 category: 3A.G -  Salads - السلطات description:
+id: 657 name: 3A G - Pickled Cucumbers - خيار مخلل price: 12 category: 3A.G -  Salads - السلطات description:
+id: 658 name: 3A G - Pickled Eggplant Tomato with Garlic - باذنجان مخلل وطماطم مخللة price: 20 category: 3A.G -  Salads - السلطات description:
+id: 659 name: 3A G - Fanta Orange Cans - فانتا برتقال كانز price: 16 category: 3A.G - Drinks - مشروبات description:
+id: 660 name: 3A G- Coca Cola Cans - كوكا كولا كانز price: 16 category: 3A.G - Drinks - مشروبات description:
+id: 661 name: 3A G- Fanta Apple Cans - فانتا تفاح كانز price: 16 category: 3A.G - Drinks - مشروبات description:
+id: 662 name: 3A G- Coca Cola Zero - كوكا كولا كانز زيرو price: 16 category: 3A.G - Drinks - مشروبات description:
+id: 663 name: 3A G - Sprite Cans - سبرايت كانز price: 16 category: 3A.G - Drinks - مشروبات description:
+id: 664 name: 3A G - Mineral Water 600ml - مياه معدنيه price: 12 category: 3A.G - Drinks - مشروبات description:
